@@ -1,0 +1,7 @@
+includes
+- bad typing (doesn't work)
+- image changing size when resize screen no matter what (just gets squished)
+
+needs
+- fix typing
+- add something interactive
